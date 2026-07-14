@@ -2,13 +2,14 @@
 
 # Esynex
 
+## Largest All purpose No. 01
 ### AI-Powered Messaging Automation for Businesses
 
 <br>
 
 # 🚧 UNDER CONSTRUCTION 🚧
 
-**This project is actively being built. Features, UI, and documentation are subject to change.**
+**This project is actively being built. Features, UI, and documentation are subject to change. Application is privately held so if needed request to view repositories.**
 
 <br>
 
