@@ -2,7 +2,7 @@
 
 # Esynex
 
-## Largest All purpose No. 01
+## Largest All purpose
 ### AI-Powered Messaging Automation for Businesses
 
 <br>
